@@ -12,6 +12,28 @@
  color: white !important;
 }
 
-#Home-container{
-    margin-top: 20px;
-}
+#home-container {
+    margin-top: 25px;
+  }
+  
+  .jumbotron {
+    background-image: asset-url('assets/jumbo-copy.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+  }
+  
+  html,
+  body {
+    height: 100%;
+  }
+  
+  #page-content {
+    flex: 1 0 auto;
+    background-color: rgb(223, 222, 222);
+  }
+  
+  #sticky-footer {
+    flex-shrink: none;
+  }
