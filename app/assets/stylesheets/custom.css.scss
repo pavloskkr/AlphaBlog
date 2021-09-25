@@ -12,6 +12,11 @@
  color: white !important;
 }
 
+/*#copyright{
+  text-decoration: none;
+  color:white;
+}*/
+
 #home-container {
     margin-top: 25px;
   }
@@ -29,7 +34,7 @@
     height: 100%;
   }
   
-  #page-content {
+  .page-content {
     flex: 1 0 auto;
     background-color: rgb(223, 222, 222);
   }
