@@ -6,7 +6,7 @@
     color: white !important;
     font-size: 34px;
     font-weight: bolder;
-    }
+}
 
 .nav-link {
  color: white !important;
@@ -18,27 +18,27 @@
 }*/
 
 #home-container {
-    margin-top: 25px;
-  }
+  margin-top: 25px;
+}
   
-  .jumbotron {
-    background-image: asset-url('assets/jumbo-copy.jpg');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 550px;
-  }
+.jumbotron {
+  background-image: asset-url('assets/jumbo-copy.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+}
   
-  html,
-  body {
-    height: 100%;
-  }
+html,
+body {
+  height: 100%;
+}
   
-  .page-content {
-    flex: 1 0 auto;
-    background-color: rgb(223, 222, 222);
-  }
+#page-content {
+  flex: 1 0 auto;
+  background-color: rgb(223, 222, 222);
+}
   
-  #sticky-footer {
-    flex-shrink: none;
-  }
+#sticky-footer {
+  flex-shrink: none;
+}
